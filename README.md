@@ -20,3 +20,6 @@ field.
    3) Job Satisfaction Rating based on their Job Role. 
    4) Education Field wise Attrition. 
    5) Attrition Rate by the employee gender for the different age groups.
+
+HR Analytics Dashboard
+![HR DATA Analytics Dashboard](https://user-images.githubusercontent.com/103653512/229375745-711cb164-2228-4217-9803-042447a7dc0c.png)
