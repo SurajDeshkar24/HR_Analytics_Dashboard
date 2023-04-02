@@ -3,7 +3,8 @@
 The data which is taken is a dummy data for which the link is shared below.
 https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187
 
-* Charts used for creating a dashboard.
+## Charts used for creating a dashboard.
+
    1) Donut Chart 1) Bar Chart
    3) Pie Chart
    4) Heat Map
