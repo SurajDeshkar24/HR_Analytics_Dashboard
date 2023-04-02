@@ -16,5 +16,5 @@ Concepts like Parameter, Calculated field, Group, Dual Axis etc. are used to cre
 field.  
    2) Number of employees based on their age group.
    3) Job Satisfaction Rating based on their Job Role. 
-   4) 4) Education Field wise Attrition. 
-   5) 5) Attrition Rate by the employee gender for the different age groups.
+   4) Education Field wise Attrition. 
+   5) Attrition Rate by the employee gender for the different age groups.
