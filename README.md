@@ -6,7 +6,8 @@ https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gi
 
 ## Charts used for creating a dashboard.
 
-   1) Donut Chart 1) Bar Chart
+   1) Donut Chart 
+   2) Bar Chart
    3) Pie Chart
    4) Heat Map
  
